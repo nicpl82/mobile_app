@@ -1,1 +1,1 @@
-Its mobele applucation for Bank.
+Its mobile application for Bank.
